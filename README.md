@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pete-beresford-bzy
-- 👀 I’m Head of Software Development
+- 👀 I’m Global Head of Software Development
 - 🌱 I’m currently tinkering with Kubernetes
 - 💞️ I’m looking to collaborate on everything
 
